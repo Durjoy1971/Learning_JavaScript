@@ -1,0 +1,24 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: gray;
+}
+
+#totalNumber{
+    display: block;
+    font-size: 60px;
+    text-align: center;
+    color: gold;
+}
+
+div {
+    text-align: center;
+    display: block;
+}
+
+button {
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    margin: 2px 10px;
+    border-radius: 5%;
+}
