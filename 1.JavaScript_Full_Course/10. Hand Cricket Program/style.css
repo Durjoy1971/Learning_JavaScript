@@ -1,0 +1,38 @@
+
+
+body{
+    background-color: gray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#title, #chosenArea, #resultArea{
+    display: block;
+    text-align: center;
+}
+
+
+#chosenArea{
+    margin: 20px auto;
+}
+
+#resultArea{
+    margin: 20px;
+}
+
+.runButton{
+    font-size: 25px;
+    margin: 5px;
+    color: gold;
+}
+
+label{
+    color: gold;
+    font-size: 20px;
+}
+
+button{
+    border-radius: 5px;
+    background-color: black;
+}
+
+
