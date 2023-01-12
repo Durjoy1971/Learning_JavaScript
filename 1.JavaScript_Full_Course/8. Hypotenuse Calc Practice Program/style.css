@@ -1,0 +1,23 @@
+label, input, button {
+    margin: 10px 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
+body{
+    background-color:gray;
+}
+
+input, button{
+    color: white;
+    background-color: black;
+}
+
+label{
+    color: gold;
+}
+
+button{
+    
+    border-radius: 10%;
+}
