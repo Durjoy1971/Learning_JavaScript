@@ -1,0 +1,18 @@
+/* label
+{
+    color:brown;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+*
+{
+    color: blue;
+    font-size: 20px;
+} */
+
+#myCanvas{
+    border: 1px solid black;
+    /* background-color: skyblue; */
+
+}
